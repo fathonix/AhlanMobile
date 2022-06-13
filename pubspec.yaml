@@ -98,9 +98,11 @@ flutter:
     - assets/images/
   
   fonts:
-    - family: OpenSans-Regular
+    - family: OpenSans
       fonts:
         - asset: assets/fonts/OpenSans-Regular.ttf
+        - asset: assets/fonts/OpenSans-Bold.ttf
+          weight: 700
     - family: Poppins-Bold
       fonts:
         - asset: assets/fonts/Poppins-Bold.ttf
